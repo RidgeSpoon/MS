@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MineSweeperAppRedo", "MineSweeperAppRedo\MineSweeperAppRedo.csproj", "{0E9419CC-B8D8-438A-AF63-467ED3550B09}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinesweeperClassLibrary", "..\MinesweeperClassLibrary\MinesweeperClassLibrary\MinesweeperClassLibrary.csproj", "{2178081B-1E75-4FEB-B381-172657BF6D1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{A567D1FA-D6A9-48FF-900A-DFEC8996B440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E9419CC-B8D8-438A-AF63-467ED3550B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9419CC-B8D8-438A-AF63-467ED3550B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9419CC-B8D8-438A-AF63-467ED3550B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9419CC-B8D8-438A-AF63-467ED3550B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2178081B-1E75-4FEB-B381-172657BF6D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2178081B-1E75-4FEB-B381-172657BF6D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2178081B-1E75-4FEB-B381-172657BF6D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2178081B-1E75-4FEB-B381-172657BF6D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E9419CC-B8D8-438A-AF63-467ED3550B09} = {A567D1FA-D6A9-48FF-900A-DFEC8996B440}
+		{2178081B-1E75-4FEB-B381-172657BF6D1A} = {A567D1FA-D6A9-48FF-900A-DFEC8996B440}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {446F6793-EFD4-418E-94B6-69B5BCE477D3}
+	EndGlobalSection
+EndGlobal
